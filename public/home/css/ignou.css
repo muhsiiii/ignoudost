@@ -1,0 +1,1679 @@
+.main-btn-home .btns-home{
+	border-radius: 15px !important;
+	width: 100% !important;
+	padding: 7px 0px 7px 0px;
+}
+.list-item-home{
+  font-size: 22px !important;
+  font-weight: 600 !important;
+}
+.icon-img-btn{
+	width: 30px !important;
+    margin-right: 16px;
+}
+.sub-btn-home{
+	display: flex;
+	align-items: center !important;
+	justify-content: center !important;
+	margin-top: 20px !important;
+}
+.active-course-btn{
+	border-radius: 10px;
+	padding: 10px 25px 10px 25px;
+	text-align: center;
+	border-radius: 25px;
+	/* width: max-content !important; */
+}
+.course-list{
+	border-radius: 13px;
+	filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.05));
+}
+.course-img{
+	border-top-left-radius: 13px;
+	border-top-right-radius: 13px;
+}
+.course-details{
+	border-radius: 18px;
+	margin-top: -20px;
+	background-color: rgb(255, 255, 255);
+	width: 100%;
+}
+.course-year{
+	font-size: 22px !important;
+}
+.timetable{
+	width: 50%;
+	color: #272B73;
+	text-align: center;
+	padding: 5px;
+	border-bottom-left-radius: 18px;
+}
+.enroll{
+	color: #272B73;
+	width: 50%;
+	text-align: center;
+	color: #fff !important;
+	padding: 5px;
+	border-bottom-right-radius: 18px;
+	background: linear-gradient(269.94deg, #B282FF 2.05%, #272B73 97.4%);
+}
+.pl-fifty{
+	padding-left: 15px !important;
+}
+.course-navigate-btns{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+}
+.pt-top{
+	padding-top: 35px !important;
+}
+.course-img{
+	position: relative;
+}
+.postn-course-name{
+	position: absolute;
+	top: 15px;
+	background: linear-gradient(90deg, #B282FF 1.67%, #272B73 98.25%);
+	padding: 2px 6px 2px 6px;
+	color: #fff;
+}
+/* why ignou section home page  */
+.dosth-img{
+	width: 120px !important;
+	display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+.why-ignou-head{
+	font-size: 20px !important;
+}
+.pink-border{
+	background: #B282FF;
+	padding: 4px 10px 4px 10px;
+	width: 100px;
+}
+.learn-more{
+	color: #272B73;
+}
+.why-ignou-img{
+	width: 300px !important;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* help section  */
+.help-colmn{
+	background: #E1FFFA;
+	border-radius: 20px 20px 0px 0px;
+	padding: 10px;
+	position: relative;
+	width: 48% !important;
+	margin-bottom: 70px !important;
+}
+.help-main-head{
+	margin-top: 70px;
+}
+.help-img{
+	position: absolute;
+	top: -35px;
+	left: 20px;
+}
+.row-main-help{
+	width: 100% !important;
+	display: flex;
+	justify-content: space-between;
+}
+.hlp-img-one{
+	width: 150px !important;
+}
+.hlp-img-two{
+	width: 110px !important;
+}
+.hlp-img-three{
+	width: 140px !important;
+}
+.hlp-img-four{
+	width: 90px !important;
+}
+.form-box{
+	background: #FFFFFF;
+	box-shadow: 0px 0px 18px -1px rgba(0, 0, 0, 0.1);
+	border-radius: 15px;
+	padding: 20px;
+}
+.form-group{
+
+}
+.form-box .form-control{
+	background: #F2F2F2;
+	border: 1px solid rgba(214, 214, 214, 0.5);
+	border-radius: 5px;
+	padding-left: 20px !important;
+	line-height: 30px !important;
+	color: gray !important;
+	margin-bottom: 20px !important;
+}
+.form-box option {
+	color: gray !important;
+  opacity: 1; /* Firefox */
+}
+.btn-submit-home{
+	width: 100%;
+	font-weight: 400;
+	border-radius: 10px;
+	padding: 7px;
+}
+.ignoutube{
+	border-radius: 25px;
+	padding: 30px 20px 20px 20px;
+}
+.main-head-ignoutube{
+	color: #ffff;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.inner-ignoutube{
+	background: #fff;
+	border-radius: 12px;
+	padding-bottom: 5px;
+}
+.ignoutube-head{
+	padding-left: 10px;
+}
+.ignoutube-sub-head{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.inner-ignoutube iframe{
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.see-more-btns{
+	background: #fff;
+	border-radius: 7px;
+	color: #2E359F;
+	display: table;
+	margin-left: auto;
+	padding: 7px 25px 7px 25px;
+}
+.faq-main-head-home{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.faq-qstn-head{
+	font-weight: 400 !important;
+	font-size: 21px !important;
+}
+.faq-sectn .card-header{
+	border: none !important;
+	background: #EEEEEE;
+	border-top-left-radius: 13px;
+	border-top-right-radius: 13px;
+	padding: 16px 16px 15px 16px !important;
+}
+.faq-sectn .card{
+	border: none !important;
+}
+.faq-answr-head{
+	font-weight: 400;
+	color: rgb(0, 0, 0);
+	line-height: 1.3;
+	padding-left: 30px;
+}
+.faq-sectn .card-body{
+	background: #EEEEEE;
+	padding: 2px 16px 4px 23px !important;
+	border-bottom-left-radius: 13px;
+	border-bottom-right-radius: 13px;
+}
+.vl {
+  border-left: 2px solid #272B73;
+  height: max-content !important;
+}
+.view-all-btn{
+	font-size: 20px !important;
+	color: #8436FF;
+	display: table;
+	margin-left: auto;
+	text-decoration: none;
+}
+/* counsil section   */
+.counsil-div{
+	display: flex;
+	border-radius: 10px;
+	box-shadow: 0px 5px 18.9px 2.1px rgba(0, 0, 0, 0.05);
+	filter: drop-shadow(0px 0px 50px rgba(0, 0, 0, 0.15));
+}
+.counsil-div-half-lft{
+	width: 30% !important;
+}
+.counsil-div-half-rgt{
+	padding: 15px;
+}
+.counsil-main-head{
+	padding-top: 20px;
+	padding-left: 15px;
+}
+.counsil-sub-head{
+	padding-left: 15px;
+}
+.btns-consil{
+	padding-left: 15px;
+	display: flex;
+	align-items: center;
+}
+.talk-btn{
+	background: #FFFFFF;
+	border: 1px solid #C4A1FB;
+	border-radius: 7px;
+	padding: 6px 20px;
+	text-decoration: none !important;
+	color: #000000;
+	font-weight: 600;
+}
+.call-img{
+	width: 30px !important;
+}
+.talk-btn:hover{
+	color: #000;
+}
+.download-now {
+	background: rgb(255, 235, 51);
+	border-radius: 14px;
+	padding: 60px 40px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: relative;
+	margin-top: 100px;
+	margin-bottom: 15px;
+}
+.download-img{
+	position: absolute;
+	width: 350px;
+	right: 250px;
+}
+.download-main-div{
+	width: 50%;
+}
+.download-main-div-rgt{
+	width: 50%;
+}
+.star-icon{
+ width: 90px !important;
+ display: table;
+ margin-left: auto;
+ margin-right: 30px !important;
+}
+.review-nmbr{
+	font-weight: 600;
+	text-align: end;
+}
+.downld-btn-home{
+	display: table;
+	margin-left: auto;
+}
+/* join community  page  */
+.join-community{
+	border-radius: 13px;
+	padding: 50px 20px 50px 20px;
+}
+.join-comnty-dub{
+
+}
+.join-commuinity-div{
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+}
+.community-img{
+	display: table;
+	margin-left: auto;
+	margin-left: 30px !important;
+	width: 180px !important;
+}
+.pink-bg{
+	color: #fff;
+	background: #B282FF;
+	border-radius: 10px;
+	border-radius: 10px;
+	padding: 6px 20px;
+}
+.outline-btn{
+	border: 1px solid #FFFFFF;
+	border-radius: 10px;
+	padding: 6px 20px;
+}
+.ignoutube-page{
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 10px 10px 10px 10px;
+}
+.time-nd-btn{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.time-nd-btn{
+	padding: 15px;
+}
+.ignoutube-page iframe{
+	border-radius: 10px;
+}
+.btn-ignou-talk{
+	border-radius: 20px;
+	padding: 9px 30px;
+}
+.btn-talk-ignou{
+	margin-bottom: 100px !important;
+    display: flex;
+}
+.telegram-btn{
+	color: #2AA1DA;
+}
+.telegram-nav-btn{
+	color: #2AA1DA;
+	font-weight: 600;
+	font-size: 20px !important;
+}
+.telegram-nav-btn	.ri-telegram-fill{
+	font-size: 24px !important;
+}
+/* blog page style  */
+.blog-box{
+	background: #FFFFFF;
+	border: 1px solid #747373;
+	padding: 15px;
+	display: flex;
+}
+.blog-width-half{
+	width: 80% !important;
+	margin: auto;
+	margin-top: 40px !important;
+}
+.profile-img{
+	width: 110px !important;
+}
+.blog-box-inner{
+	padding-left: 30px;
+}
+.rgt-blog{
+	padding-right: 30px !important;
+}
+.blog-content{
+	line-height: 1.6;
+}
+.social-icon{
+	width: 35px !important;
+}
+.share-blog{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+/* free resources page  */
+.free-resources-head{
+	font-weight: 700;
+	margin-top: 50px !important;
+}
+.reasorces-name{
+	color: #22505E;
+	font-weight: 500;
+	text-align: center;
+}
+.folder-img{
+	width: 100px !important;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+}
+.back-btn-resources-page{
+	color: #fff;
+	padding: 5px 30px !important;
+	border-radius: 10px;
+	display: table;
+	margin-left: auto;
+}
+.back-btn-resources-page .ri-arrow-left-circle-fill{
+	font-size: 28px !important;
+	margin-right: 10px;
+}
+.leave-box{
+	width: 100%;
+	margin-top: 30px !important;
+}
+.btn-talk-ignou a{
+	text-decoration: none !important;
+	color: #fff;
+}
+.talk-dv{
+	margin-top: 50px !important;
+	margin-bottom: 50px !important;
+}
+.head-tube{
+	margin-top: 200px !important;
+	margin-bottom: 60px !important;
+}
+.head-bg-bnr{
+	color: #1C24AE;
+    padding-bottom: 20px;
+}
+.sub-head-bg-bnr{
+	color: #000;
+}
+.computer-img{
+	width: 60% !important;
+	position: absolute;
+	/* bottom: -175px; */
+}
+.tube-bg-img{
+	position: relative;
+	padding: 260px 20px 55px 20px;
+}
+.filter-btn{
+	color: #272B73;
+	border: 1px solid #272B73;
+	border-radius: 8px;
+	padding: 8px 30px !important;
+	font-weight: 500;
+}
+.settings-icon{
+	width: 20px !important;
+}
+.see-more-btn{
+	padding: 7px 25px !important;
+	border-radius: 12px !important;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+}
+.see-more-dv{
+	margin-bottom: 40px !important;
+	margin-top: 10px !important;
+}
+.btn-join-community{
+	margin-top: 10px !important;
+}
+.btn-see-more{
+	margin-top: 40px !important;
+}
+.about-ignou{
+	margin-top: 45px !important;
+}
+.home-tabcourse-heading{
+	margin-bottom: 28px !important;
+}
+.home-tabcourse-heading{
+	margin-top: 38px !important;
+}
+.why-dosth{
+	margin-bottom: 25px !important;
+}
+.why-ignou-main-heading{
+	margin: 39px 0px ;
+}
+.faq-sectn .faq-arrow{
+	position: absolute;
+	right: 20px;
+	font-weight: 600;
+	top: 15px;
+}
+.faq-sectn .card-header{
+	position: relative;
+}
+/* modal home  */
+.login-haeding{
+	color: #272B73;
+	font-weight: 600;
+	margin-bottom: 15px !important;
+}
+.modal-home .ri-close-circle-line{
+	text-align: right;
+	font-weight: 500;
+}
+.login-modal-btn{
+	width: 100%;
+}
+.login-modal-home-p{
+	padding: 25px !important;
+}
+/* modal home end */
+/* blog page  */
+.blog-main-box{
+	border-radius: 10px;
+	margin-bottom: 50px !important;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
+.blog-pic{
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.blog-main-head{
+	padding-top: 10px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.blog-sub-head-main{
+	padding-top: 10px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+.blog-content{
+	padding: 10px;
+}
+.blog-own{
+	display: flex;
+	justify-content: space-between;
+}
+.blog-user-profile{
+	width: 22px;
+	height: 22px;
+}
+.img-name-blog{
+	display: flex;
+}
+.learn-more-btn{
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 8px 50px;
+	border-radius: 12px !important;
+}
+.explore-course-heading{
+	margin: 30px 0px;
+}
+/* landing page  */
+.land-heading{
+	font-weight: 600;
+	font-size: 44px !important;
+}
+.landing-section{
+	padding: 30px 0px;
+	width: 65% !important;
+	margin-top: 50px !important;
+}
+.land-row-first{
+
+}
+.form-landing-page{
+	padding: 30px 20px;
+	background: #FFFFFF;
+	box-shadow: 0px 0px 18px -1px rgba(0, 0, 0, 0.1);
+	border-radius: 13px;
+	margin-top: 30px !important;
+}
+.form-landing-page .form-control{
+	border: none;
+	background: #F0F0F0;
+	border-radius: 8px;
+	padding: 10px 8px;
+}
+.form-landing-page ::placeholder {
+  font-size: 15px !important;
+}
+.form-landing-page select{
+  font-size: 15px !important;
+}
+.arrow-pink{
+	width: 80px !important;
+	display: table;
+	margin-left: auto;
+	margin-top: -60px;
+}
+.landing-img{
+	width: 280px !important;
+	position: absolute;
+	right: 30px;
+	top: 0px;
+}
+.logo-sliders {
+	margin-left: auto;
+	margin: auto;
+	width: 80px !important;
+	text-align: center;
+	display: table;
+	margin-right: auto;
+}
+/* ============== swipper =============== */
+.swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+	bottom: -6px !important;
+}
+.swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+	bottom: -6px !important;
+}
+/* ============== swipper =============== */
+.slider-head-bought{
+	padding: 30px 0px ;
+}
+.people-slider{
+	margin: 20px 0px !important;
+}
+.enroll a{
+	color: white !important;
+	text-decoration: none;
+}
+.reg-enrolment{
+  margin-top: 60px;
+}
+.who-we-are-main{
+  margin-top: 60px;
+}
+.form-head{
+  margin-bottom: 15px;
+  margin-top: 0px;
+}
+.mentor{
+    font-weight: 500;
+    position: absolute;
+    bottom: 1px;
+    font-size: 14px;
+    right: 10px;
+    color: #ffff;
+}
+.course-img-dv{
+    position: relative;
+}
+/* slick slider  */
+
+.resources-box a:hover{
+    text-decoration: none !important;
+}
+.back-btn-resources-page-dv a:hover{
+    text-decoration: none !important;
+}
+.blog-main-box a:hover{
+    text-decoration: none !important;
+    color: #000;
+}
+.modal-testimonial-comments .modal-content{
+	border-radius: 10px !important;
+    padding: 20px;
+}
+.icon-store{
+	width: 100% !important;
+}
+.text-blue-form{
+    font-weight: 600;
+    color: #336DC5;
+    font-size: 32px;
+    line-height: 1.1;
+}
+.join-wtsp-grp{
+    font-size: 38px !important;
+}
+.form-head span{
+    color: rgb(0, 0, 0) !important;
+    font-size: 23px;
+    font-weight: 400;
+}
+.search-blog input{
+	border-radius: 10px !important;
+	border: 1px solid #000 !important;
+}
+.search-blog input::placeholder{
+	font-size: 14px !important;
+}
+.search-blog {
+	display: table;
+	margin-left: auto !important;
+}
+.join-wtsp-grip-sub-text{
+    font-size: 18px !important;
+}
+.filter-box-ignou-tube select{
+    display: table;
+    margin-left: auto;
+}
+.apply-now-txt{
+    background: #dddddf;
+    color: #000000;
+    padding: 10px 0px 10px 0px;
+}
+.later-text{
+    font-weight: 600;
+}
+.bottom-space{
+    margin-bottom: 40px !important;
+}
+.modal-popup-about-dv{
+	padding: 10px;
+}
+.dynamic-content p{
+    color: grey;
+}
+.courses-btns{
+	display: flex;
+}
+.user-university{
+    color: #300a26 !important;
+}
+.slider-logos .custom-box.slick-slide{
+    padding: 0px !important;
+}
+.slider-logos .slick-dots{
+    bottom: -5px !important;
+}
+.slider-logos .slick-dots li button:before {
+    font-size: 11px !important;
+}
+.call-btn-mobile{
+	width: 100%;
+	display: flex;
+}
+.half-btn{
+	width: 50%;
+}
+.call-now{
+	padding: 16px 5px;
+	background: #272B73;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+	font-size: 17px;
+}
+.whtspp-now{
+	padding: 16px 5px;
+	background: #14A637;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+	font-size: 17px;
+}
+.half-btn i{
+	padding-right: 10px;
+	font-size: 20px;
+}
+.half-btn a:hover{
+	text-decoration: none;
+	color: #ffff;
+}
+.call-btn-mobile{
+	display: none;
+}
+/* responsive styles  */
+@media (max-width:4100px) {
+	.container-main{
+		width: 50% !important;
+		margin: auto;
+	}
+}
+@media (max-width:3072px) {
+	.container-main{
+		width: 73% !important;
+		margin: auto;
+	}
+}
+@media (max-width:2048px) {
+  .container-main{
+    width: 90% !important;
+    margin: auto;
+  }
+}
+@media (max-width:1600px) {
+	.container-main {
+    width: 87% !important;
+    margin: auto;
+	}
+	.computer-img {
+    width: 75% !important;
+	}
+	.tube-bg-img {
+    padding: 190px 20px 44px 20px;
+	}
+    .head-tube {
+        margin-top: 90px !important;
+        margin-bottom: 25px !important;
+    }
+}
+@media (max-width:1450px) {
+    .navbar-links {
+        gap: 1rem;
+    }
+}
+@media (max-width:1400px) {
+	.container-main {
+    width: 90% !important;
+    margin: auto;
+	}
+	.free-resources-head {
+    margin-top: 40px !important;
+	}
+	.container-main {
+    width: 93%;
+    margin: auto;
+	}
+	.blog-head-main{
+		font-size: 23px !important;
+	}
+	.profile-img {
+    width: 95px !important;
+	}
+	.blog-width-half {
+    width: 86% !important;
+    margin: auto;
+    margin-top: 40px !important;
+	}
+	.computer-img {
+    width: 75% !important;
+	}
+	.tube-bg-img {
+    padding: 120px 20px 20px 20px;
+	}
+	.counsil-div-half-lft {
+    width: 50% !important;
+	}
+	.download-img {
+    right: 160px;
+	}
+	.blog-page-sld swiper-slide{
+		width: 380px !important;
+	}
+}
+@media (max-width:1200px) {
+	.nav-link {
+    display: block;
+    padding: 6px 10px !important;
+	}
+    .head-tube {
+        margin-top: 160px !important;
+        margin-bottom: 60px !important;
+    }
+	p, button, a, input, span, li {
+		font-size: 15px;
+	}
+	.navbar-links li a {
+    font-size: 13px;
+	}
+	.computer-img {
+    width: 80% !important;
+	}
+	.active-course-btn {
+    padding: 7px 17px 7px 17px;
+	}
+	.course-name{
+		font-size: 16px;
+	}
+	.blog-page-sld swiper-slide {
+    width: 350px !important;
+	}
+	.people-slider swiper-slide {
+    width: 200px !important;
+	}
+	.nav-link {
+		padding: 6px 7px !important;
+	}
+	.quatotion{
+		position: absolute;
+		left: 14px;
+		top: 10px;
+		font-size: 40px;
+	}
+}
+@media (max-width:991px) {
+	footer .container-main {
+		padding-bottom: 50px !important;
+	}
+    .call-btn-mobile{
+        display: flex;
+        position: fixed;
+        bottom:0px !important;
+        z-index: 15;
+    }
+	.computer-img {
+    display: none !important;
+	}
+    .why-ignou-main-heading {
+      margin: 17px 0px;
+  }
+	.navbar .navbar-links .nav-item{
+		display: none !important;
+	}
+    .course-drpdown{
+		display: none !important;
+
+    }
+	.tube-bg-img {
+    padding: 125px 20px 100px 20px;
+	}
+	.head-tube {
+    margin-top: 38px !important;
+    margin-bottom: 32px !important;
+	}
+	.ignou-tube-head-pg{
+		font-size: 25px !important;
+	}
+	.download-img {
+    right: 120px;
+	}
+	.about-ignou {
+    margin-top: 0px !important;
+	}
+	.home-tabcourse-heading{
+		font-size: 18px !important;
+	}
+	.active-course-btn {
+    padding: 7px 12px 7px 13px;
+	}
+	.course-name {
+    font-size: 15px;
+	}
+	.home-tabcourse-heading {
+    margin-bottom: 25px !important;
+	}
+	.landing-img {
+		display: none;
+	}
+	.landing-section {
+    width: 100% !important;
+	}
+	.landing-section {
+    padding: 19px 0px;
+    margin-top: 0px !important;
+	}
+    .ignoutube-main-container-main{
+        margin-top: 257px !important;
+    }
+    .icon-store {
+        margin-bottom: 10px !important;
+        width: 160px !important;
+        display: table;
+        margin-right:auto !important;
+        margin-left: auto !important;
+     }
+    .form-head span{
+        font-size: 16px !important;
+    }
+    .join-wtsp-grp {
+        font-size: 27px !important;
+    }
+    .join-wtsp-grip-sub-text {
+        font-size: 16px !important;
+    }
+    .bottom-space {
+        margin-bottom: 9px !important;
+    }
+    .learner-txt{
+        margin-top: 30px;
+    }
+    .text-blue-form {
+        font-size: 30px;
+    }
+}
+@media (max-width:900px) {
+	.container-main {
+    width: 93%;
+    margin: auto;
+	}
+	.free-resources-head {
+    margin-top: 20px !important;
+	}
+	h1 {
+		font-size: 1.2rem;
+	}
+	h2 {
+		font-size: 0.9rem;
+	}
+	h3 {
+		font-size: 0.8rem;
+	}
+	h4 {
+		font-size: 0.7rem;
+	}
+	h5 {
+		font-size: 0.6rem;
+	}
+	.footer-head {
+		font-size: 18px !important;
+	}
+	.blog-width-half {
+    width: 100% !important;
+		margin-top: 22px !important;
+	}
+	.blog-box-inner {
+    padding-left: 0px;
+	}
+	.btn-talk-ignou {
+    margin-bottom: 40px !important;
+	}
+	.telegram-nav-btn{
+		text-align: center;
+	}
+	.download-img {
+    display: none;
+	}
+	.download-main-div {
+    width: unset !important;
+	}
+	.slider-head{
+		font-size: 23px !important;
+	}
+	.inner-ignoutube {
+    margin-bottom: 18px;
+	}
+	.btns-consil {
+    padding-left: 0px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+		margin-left: 0px !important;
+	}
+	.talk-btn {
+    margin-left: 0px !important;
+		margin-bottom: 10px !important;
+		margin-left: 10px !important;
+	}
+	.counsil-div-half-lft {
+   display: none !important;
+	}
+	.counsil-main-head {
+    font-size: 25px;
+	}
+	.faq-main-head-home {
+    margin-top: 33px;
+    margin-bottom: 32px;
+    font-size: 25px;
+	}
+	.main-btn-home .btns-home {
+    font-size: 13px;
+	}
+	.list-item-home{
+		font-size: 15px !important;
+	}
+	.icon-img-btn {
+    width: 19px !important;
+	}
+	.sub-btn-home {
+    margin-top: 11px !important;
+	}
+	.why-ignou-head {
+    font-size: 18px !important;
+	}
+	.dosth-img {
+    width: 100px !important;
+	}
+    .reg-enrolment{
+      margin-top: 20px !important;
+    }
+    .who-we-are-main{
+      margin-top: 10px;
+    }
+    .slider-head-bought {
+      padding: 14px 0px;
+    }
+    .people-slider swiper-slide {
+      width: 110px !important;
+  }
+  .logo-sliders {
+    width: 74px !important;
+  }
+}
+@media (max-width:892px) {
+	.search-blog {
+		display: table;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		margin-bottom: 0px !important;
+	}
+}
+@media (max-width:750px) {
+	.course-name {
+		font-size: 14px;
+		margin-bottom: 10px !important;
+		text-align: center;
+	}
+	.active-course-btn {
+    margin: auto;
+		font-weight: 400 !important;
+	}
+	.why-ignou-head {
+    font-size: 16px !important;
+	}
+	.arrow-pink {
+    width: 55px !important;
+    margin-top: -65px;
+	}
+	.form-box {
+    margin-bottom: 20px;
+	}
+	.download-now {
+    margin-top: 40px;
+	}
+    .join-wtsp-grp {
+        font-size: 22px !important;
+    }
+}
+@media (max-width:600px) {
+	.blog-box {
+    padding: 10px;
+    display: block;
+	}
+  .coming-soon-img{
+    width: 200px !important;
+  }
+	.profile-img {
+    width: 95px !important;
+		display: table;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 10px !important;
+	}
+	.blog-author-desc{
+		text-align: center;
+	}
+	.blog-author-name{
+		text-align: center;
+	}
+	.blog-head-main {
+    font-size: 19px !important;
+	}
+	.btn-talk-ignou {
+    text-align: center;
+	}
+	.talk-dv{
+		margin-top: 20px !important;
+		margin-bottom: 40px !important;
+	}
+	.join-wtsp-grp{
+		margin-bottom: 5px !important;
+	}
+	.footer-head{
+		margin-top: 20px !important;
+	}
+	.community-img {
+		display: none !important;
+	}
+	.btn-join-community {
+    margin-top: 3px !important;
+	}
+	.head-bg-bnr {
+		font-weight: 600;
+		font-size: 26px !important;
+	}
+    .tube-bg-img {
+        padding: 82px 20px 31px 20px;
+    }
+	.head-tube {
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+	}
+	.time-nd-btn {
+    padding: 15px;
+    padding-top: 0px;
+	}
+	.ignoutube-head {
+    font-size: 19px;
+	}
+	.ignoutube-sub-head {
+		margin-bottom: 0px !important;
+	}
+	.see-more-dv {
+    margin-top: 0px !important;
+	}
+	.icon-contact{
+		margin-bottom: 0px !important;
+	}
+	.information-div{
+		margin-bottom: 0px !important;
+	}
+	.services-div{
+		margin-bottom: 0px !important;
+	}
+	.download-now {
+    padding: 32px 40px;
+    margin-top: 40px;
+	}
+	.btns-consil {
+    padding-left: 0px;
+    display: flex;
+    flex-wrap: wrap;
+	}
+	.talk-btn {
+		margin-left: 0px !important;
+		margin-bottom: 10px !important;
+	}
+	.counsil-div-half-lft {
+    display: none;
+	}
+	.counsil-main-head {
+    padding-top: 20px;
+    padding-left: 0px;
+    font-weight: 500;
+    font-size: 23px;
+	}
+	.counsil-sub-head {
+    padding-left: 0px;
+	}
+	.faq-qstn-head {
+    font-size: 15px !important;
+	}
+	.faq-main-head-home {
+    margin-top: 25px;
+    margin-bottom: 25px;
+	}
+	.btn-see-more {
+    margin-top: 8px !important;
+	}
+	.see-more-btns {
+    padding: 5px 20px 5px 20px;
+	}
+	.main-btn-home .btns-home {
+    padding: 5px 0px 5px 0px;
+		font-size: 11px;
+		margin-bottom: 5px;
+	}
+	.list-item-home{
+		font-size: 14px !important;
+	}
+	.icon-img-btn {
+    width: 19px !important;
+	}
+	.bottom-help-colmn{
+		margin-bottom: 35px !important;
+	}
+	.slider .item .slide-box {
+    margin: 30px;
+		padding-left: 56px !important;
+	}
+	.quatotion {
+    position: absolute;
+    font-size: 35px;
+	}
+    .people-slider swiper-slide {
+    display: flex;
+    align-items: center;
+	}
+	.logo-sliders {
+    width: 65px !important;
+	}
+	.swiper-android swiper-slide, .swiper-wrapper {
+    transform: translate3d(0px,0,0);
+		padding: 10px 10px;
+	}
+	.people-slider {
+    margin: -15px 0px !important;
+    padding: 30px 0px;
+	}
+	.people-slider swiper-slide {
+    margin-right: 20px !important;
+    width: 100% !important;
+	}
+    .fil-text-sub{
+        font-size: 15px;
+    }
+    .never-later-min{
+        font-size: 17px;
+    }
+    .filter-row-blog {
+        margin-bottom: 8px;
+    }
+}
+@media (max-width:550px) {
+	.icon-img-btn {
+		width: 20px !important;
+	}
+    .ignoutube-main-container-main {
+        margin-top: 380px !important;
+    }
+    .tube-bg-img {
+        padding: 110px 20px 31px 20px;
+    }
+	.list-item-home {
+    font-size: 12px !important;
+	}
+	.course-name {
+    font-size: 12px;
+	}
+	.sub-btn-home {
+    margin-top: 0px !important;
+	}
+	.home-tabcourse-heading {
+    margin-top: 15px !important;
+	}
+	.dosth-img {
+    width: 90px !important;
+	}
+	.reg-enrolment{
+		margin: 25px 0px;
+    text-align: justify;
+	}
+	.download-now{
+		display: block;
+	}
+	.download-main-div-rgt {
+		width: unset !important;
+	}
+	.pink-border {
+    padding: 2px 10px 2px 10px;
+	}
+	.star-icon {
+		width: 90px !important;
+		display: table;
+		margin-left: auto;
+		margin-right: auto !important;
+	}
+	.who-we-are{
+		text-align: justify;
+	}
+	.review-nmbr {
+		text-align: center;
+	}
+	.downld-btn-home {
+		display: table;
+		margin-left: auto;
+		margin-right: auto;
+		font-size: 14px !important;
+	}
+	.why-ignou-subhead{
+		text-align: justify;
+	}
+	.acadamic-subhead {
+		text-align: justify;
+	}
+	.form-box {
+    margin-bottom: 20px;
+	}
+	.outline-btn {
+    margin-bottom: 7px;
+	}
+	swiper-slide {
+    width: 100% !important;
+	}
+	.testimonial-user {
+    font-size: 15px;
+	}
+	.testimonial-content {
+    font-weight: 400;
+    font-size: 13px;
+	}
+	.user-university {
+    font-size: 13px;
+	}
+    .form-head {
+      margin-bottom: 3px;
+      margin-top: 12px;
+  }
+    .slick-slide {
+      padding: 0px 0;
+  }
+  .join-wtsp-grip-sub-text {
+    font-size: 14px !important;
+    }
+    .search-blog {
+        width: 90% !important;
+    }
+    .filter-row-blog select {
+        width: 100% !important;
+    }
+    .filter-row-blog form {
+        width: 100%;
+    }
+}
+@media (max-width:400px) {
+	.container-main {
+    width: 92%;
+    margin: auto;
+	}
+	p, button, a, input, span, li {
+		font-size: 12px;
+	}
+    .ignoutube-main-container-main {
+        margin-top: 370px !important;
+    }
+	.free-resources-head {
+    margin-top: 5px !important;
+		font-size: 22px !important;
+		margin-bottom: 0px !important;
+	}
+	.folder-img {
+    width: 70px !important;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+	}
+	.back-btn-resources-page {
+    padding: 0px 24px !important;
+	}
+	.footer-icons {
+    margin-top: 7px !important;
+    margin-bottom: 9px !important;
+	}
+	.footer-icons i {
+    font-size: 23px !important;
+	}
+	.logo-footer img {
+    width: 170px !important;
+	}
+	.app-icon {
+    width: 102px;
+	}
+	.downld-app-icons {
+    margin-bottom: 25px;
+	}
+	.social-icon {
+    width: 25px !important;
+	}
+	.leave-box {
+    width: 100%;
+    margin-top: 18px !important;
+	}
+	header .navbar-logo img {
+    width: 150px;
+	}
+	.navbar {
+    padding: 14px 0px 17px 0px;
+	}
+	.community-resources{
+		margin-left: 0px !important;
+	}
+	.download-now {
+    padding: 17px 25px;
+	}
+	.download-now{
+		display: block;
+	}
+	.star-icon {
+    width: 90px !important;
+    display: table;
+    margin-left: auto;
+    margin-right: auto  !important;
+	}
+	.review-nmbr {
+    text-align: center;
+	}
+	.downld-btn-home {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+		font-size: 14px !important;
+	}
+	.counsil-main-head {
+    padding-top: 5px;
+		font-size: 21px;
+	}
+	.talk-btn {
+    padding: 6px 13px;
+	}
+	.view-all-btn {
+    font-size: 15px !important;
+	}
+	.call-img {
+    width: 26px !important;
+	}
+	.faq-qstn-head {
+    font-size: 13px !important;
+	}
+	.faq-main-head-home {
+    margin-top: 20px;
+    margin-bottom: 20px;
+	}
+	.ignoutube {
+    border-radius: 21px;
+    padding: 20px 20px 20px 20px;
+	}
+	.inner-ignoutube {
+    margin-bottom: 20px;
+	}
+	.btn-submit-home {
+    padding: 5px 10px !important;
+		font-size: 13px !important;
+	}
+	.form-box .form-control {
+    padding-left: 10px !important;
+	}
+	.form-box option{
+		font-size: 15px !important;
+	}
+	.main-btn-home .btns-home {
+    padding: 5px 0px 5px 0px;
+		margin-bottom: 5px;
+    font-size: 12px;
+	}
+	.course-name {
+    font-size: 13px;
+	}
+	.list-item-home {
+    font-size: 13px !important;
+	}
+	.why-ignou-head {
+    font-size: 13px !important;
+	}
+	.reg-enrolment{
+		margin: 20px 0px;
+	}
+	.faq-sectn .faq-arrow {
+    right: 8px;
+	}
+	.hlp-img-three {
+    width: 115px !important;
+	}
+	.hlp-img-four {
+    width: 80px !important;
+	}
+	.hlp-img-one {
+    width: 118px !important;
+	}
+	.hlp-img-two {
+    width: 85px !important;
+	}
+	.help-main-head {
+    margin-top: 50px;
+	}
+	.main-head-ignoutube {
+    margin-top: 4px;
+    font-size: 17px !important;
+    margin-bottom: 25px;
+	}
+	.faq-main-head-home {
+    font-size: 22px;
+	}
+    .head-tube {
+        margin-top: 100px !important;
+        margin-bottom: 14px !important;
+    }
+    .ignou-tube-head-pg {
+        font-size: 20px !important;
+        padding-bottom: 13px;
+    }
+	.filter-btn {
+    padding: 4px 23px !important;
+	}
+	.settings-icon {
+    width: 16px !important;
+	}
+	.see-more-dv {
+    margin-bottom: 35px !important;
+	}
+	.telegram-nav-btn {
+    font-size: 18px !important;
+	}
+	.join-community {
+    border-radius: 11px;
+    padding: 35px 20px 35px 20px;
+	}
+	.community-head {
+		font-size: 18px !important;
+	}
+	.login-modal-home-p {
+		padding: 13px !important;
+	}
+	.login-haeding {
+    margin-bottom: 19px !important;
+    font-size: 16px;
+	}
+	.land-heading {
+    font-size: 27px !important;
+	}
+	.ignoutube-sub-head {
+    font-size: 16px;
+    padding-bottom: 10px;
+	}
+	.slider .item .slide-box {
+    padding-left: 20px !important;
+    padding-right: 10px !important;
+    padding-bottom: 30px !important;
+    padding-top: 44px !important;
+	}
+	.land-heading {
+		font-size: 36px !important;
+	}
+    .join-wtsp-grp {
+        font-size: 18px !important;
+    }
+    .join-wtsp-grip-sub-text {
+        font-size: 12px !important;
+    }
+}
+@media (max-width:290px) {
+	.course-name {
+    font-size: 11px;
+	}
+	.main-btn-home .btns-home {
+    font-size: 11px;
+	}
+	.icon-img-btn {
+    width: 16px !important;
+	}
+	.list-item-home {
+    font-size: 12px !important;
+	}
+	.home-tabcourse-heading {
+    margin-bottom: 10px !important;
+	}
+	.hlp-img-one {
+    width: 88px !important;
+	}
+	.hlp-img-two {
+    width: 65px !important;
+	}
+	.hlp-img-three {
+    width: 92px !important;
+	}
+	.hlp-img-four {
+    width: 68px !important;
+	}
+	.help-main-head {
+    margin-top: 36px;
+	}
+	.list-item-home {
+    font-size: 10px !important;
+	}
+	.course-name {
+    font-size: 10px;
+	}
+	.form-box {
+    padding: 13px;
+	}
+	.login-modal-home-p {
+    padding: 3px !important;
+	}
+}
+/* end  */
+
